@@ -11,7 +11,7 @@
 		<atom:link href="http://howardyoung.github.io/feed/" rel="self" type="application/rss+xml" />
 		<link>http://howardyoung.github.io/</link>
 		<description>[[subject]]</description>
-		<lastBuildDate>Wed, 19 Feb 2014 04:28:09 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 19 Feb 2014 15:25:45 +0000</lastBuildDate>
 		<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -19,7 +19,7 @@
 		<item>
 			<title>[[title]]</title>
 			<link>http://howardyoung.github.io/</link>
-			<pubDate>Wed, 19 Feb 2014 04:23:04 +0000</pubDate>
+			<pubDate>Wed, 19 Feb 2014 15:25:42 +0000</pubDate>
 			<description>[[subject]]</description>
 		</item>
 	</channel>
