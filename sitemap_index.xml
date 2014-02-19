@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://howardyoung.github.io/main-sitemap.xsl"?><sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>http://howardyoung.github.io/post-sitemap.xml</loc>
+    <lastmod>2014-02-19T04:28:09-08:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>http://howardyoung.github.io/video-sitemap.xml</loc>
+    <lastmod>2014-02-19T04:28:09-08:00</lastmod>
+  </sitemap>
+</sitemapindex>

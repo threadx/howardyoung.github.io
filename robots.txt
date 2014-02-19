@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: http://howardyoung.github.io/sitemap_index.xml
+Disallow: /cgi-bin/
+Disallow: /css/

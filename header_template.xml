@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Howard Young: Developer</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="stylesheet"  href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/united/bootstrap.min.css">
+ 
+
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./themes/css/bootswatch.min.css">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="./bower_components/html5shiv/dist/html5shiv.js"></script>
+      <script src="./bower_components/respond/dest/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a href="./" class="navbar-brand">Howard Young</a>
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar-main">
+          <ul class="nav navbar-nav">
+            <li>
+              <a href="http://howardyoung.wordpress.com">Blog</a>
+            </li>
+          </ul>
+
+          <ul class="nav navbar-nav navbar-right">
+              <li><a href="./help/">Help</a></li>
+          </ul>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="splash">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-lg-12">
+            <h1>I am the Howard</h1>
+            <div id="social">
+              <span>
+                <iframe id="gh-fork" src="http://ghbtns.com/github-btn.html?user=howardyoung" allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
+                <iframe id="gh-star" src="http://ghbtns.com/github-btn.html?user=howardyoung&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
+              </span>
+              <span>
+                <a href="https://twitter.com/howardy" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @thomashpark</a>
+                <a href="https://twitter.com/share" class="twitter-share-button" data-url="./" data-via="howardyoung">Tweet</a>
+              </span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="section-tout">
+      <div class="container">
+
+      </div>
+    </div>
+
+
+
+    <div class="container">
+      <footer>
+        <div class="row">
+          <div class="col-lg-12">
+
+            <p>Based on <a href="http://getbootstrap.com" rel="nofollow">Bootstrap</a>. Icons from <a href="http://fortawesome.github.io/Font-Awesome/" rel="nofollow">Font Awesome</a>. Web fonts from <a href="http://www.google.com/webfonts" rel="nofollow">Google</a>.</p>
+
+          </div>
+        </div>
+
+      </footer>
+
+
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="./bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="./themes/js/bootswatch.js"></script>
+    <script>
+      !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+    </script>
+  </body>
+</html>
