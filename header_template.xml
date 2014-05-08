@@ -79,6 +79,13 @@
       </div>
     </div>
 
+	<div class="jumbotron">
+		<h1>Voted #1 App Developer by...</h1>
+		<p>This is what my clients think. But if you want find out for yourself,
+please call or press this button:</p>
+
+		<p><a class="btn btn-primary btn-lg" href="http://www.clkngo.com">Learn More</a></p>
+	</div>
 
 
     <div class="container">
